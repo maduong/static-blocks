@@ -1,0 +1,10 @@
+{
+    "alias": "edutalk-static-blocks",
+    "name": "Edutalk static blocks",
+    "author": "Vuong Pham",
+    "description": "Edutalk static blocks",
+    "namespace": "Edutalk\\Base\\StaticBlocks",
+    "version": "3.1",
+    "autoload": "psr-4",
+    "require": {}
+}
