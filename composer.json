@@ -3,6 +3,10 @@
     "description": "Edutalk ACL",
     "license": "MIT",
     "homepage": "http://edutalk.vn",
+    "support": {
+        "issues": "https://github.com/maduong/static-blocks/issues",
+        "source": "https://github.com/maduong/static-blocks"
+    },
     "authors": [
         {
             "name": "Vuong Pham",
